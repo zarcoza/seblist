@@ -1,1 +1,1 @@
-worker: python ganjo.py
+python ganjo.py
